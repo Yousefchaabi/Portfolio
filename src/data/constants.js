@@ -83,9 +83,18 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
       },
       {
-        name: "PHP",
+        name: "Spring Boot",
         image:
-          "https://github.com/panique/php-logo/blob/master/php-logo.png?raw=true",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWNwCK8OPWNfPpaSKTfcAUAnuO52ajRLvgEw&s",
+      },
+      {
+        name: "GraphQL",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png",
+      },
+      {
+        name: "PHP",
+        image: "https://www.svgrepo.com/show/452088/php.svg",
       },
       {
         name: "MySQL",
@@ -165,7 +174,7 @@ export const experiences = [
     img: "https://lh3.googleusercontent.com/p/AF1QipMBCWkap25gkJ1KMoAvjaj4hcpfdZrVUvvqUBZq=s1360-w1360-h1020",
     role: "Backend Developer",
     company: "Octasoft",
-    date: "Mars 2022 - septembre 2022",
+    date: "Mars 2022 - juillet 2022",
     desc: [
       "Creation of REST and SOAP web services.",
       "Carrying out multiple tasks on existing solutions.",
@@ -270,12 +279,20 @@ export const projects = [
     title: "To-Do app",
     date: "Novembre 2023",
     description:
-      "I developed a simple To-do application to demonstrate the use of Redux in global state management. This application allows users to add, edit and delete tasks efficiently.",
-    image: "https://i.ibb.co/nC5xs27/todo.png",
-    tags: ["React Js", "Redux", "HTML", "CSS", "JavaScript", "JSX"],
+      "Fully functional smart todo app built with React to keep track of the tasks you plan to complete within a specific amount of time, most probably a day. Users can create a task, edit a task, mark a task as 'complete' and delete a task and also can delete all the tasks by one click.",
+    image: "https://i.postimg.cc/L8GqcjQH/smart-todo.png",
+    tags: [
+      "React Js",
+      "ContextAPI",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JSX",
+      "Custom Hooks",
+    ],
     category: "web app",
-    github: "https://github.com/Yousefchaabi/Todo_App",
-    webapp: "https://todo-app-five-chi-49.vercel.app/",
+    github: "https://github.com/Yousefchaabi/smart-todo-app",
+    webapp: "https://smart-todo-app.vercel.app/",
   },
   {
     id: 3,

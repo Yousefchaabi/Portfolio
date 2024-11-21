@@ -174,7 +174,7 @@ export const experiences = [
     img: "https://lh3.googleusercontent.com/p/AF1QipMBCWkap25gkJ1KMoAvjaj4hcpfdZrVUvvqUBZq=s1360-w1360-h1020",
     role: "Backend Developer",
     company: "Octasoft",
-    date: "Mars 2022 - juillet 2022",
+    date: "Mars 2022 - Août 2022",
     desc: [
       "Creation of REST and SOAP web services.",
       "Carrying out multiple tasks on existing solutions.",

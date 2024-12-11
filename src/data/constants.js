@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Yousefchaabi",
   resume:
-    "https://docs.google.com/document/d/1QvzL5dE9ExHMpb5W7HwIDZfjkIWSpu1y3t-MPBOx_z8/edit?usp=sharing",
+    "https://drive.google.com/file/d/1VaNO-NMBFc6Ago1DIilX1vU0AxCdJY7S/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/youssef-chaabi-863510187/",
   insta: "https://www.instagram.com/youssef_chaabii/",
   facebook: "https://www.facebook.com/youssef.chaabi.9634/",
@@ -313,6 +313,19 @@ export const projects = [
     category: "ui design",
     github: "https://github.com/Yousefchaabi/HTML_-_CSS_Template-3-",
     webapp: "https://html-css-template-3-liart.vercel.app/",
+  },
+
+  {
+    id: 4,
+    title: "Responsive Design",
+    date: "Septembre 2024",
+    description:
+      "Prixima is a modern and versatile Bootstrap template designed to suit a wide range of projects and applications. Built with responsiveness at its core, Prixima ensures an optimal viewing experience on any device, from desktops to smartphones. Its sleek design and intuitive features make it a perfect choice for businesses, portfolios, and creative professionals.",
+    image: "https://i.ibb.co/Qnzj8hN/prixima.png",
+    tags: ["HTML", "CSS", "JS", "Bootstrap5", "Flex-box", "Grid"],
+    category: "ui design",
+    github: "https://github.com/Yousefchaabi/PRIXIMA-Responsive-UI-UX",
+    webapp: "https://prixima-responsive-ui-ux.vercel.app/",
   },
 ];
 

@@ -174,12 +174,12 @@ export const experiences = [
     img: "https://lh3.googleusercontent.com/p/AF1QipMBCWkap25gkJ1KMoAvjaj4hcpfdZrVUvvqUBZq=s1360-w1360-h1020",
     role: "Backend Developer",
     company: "Octasoft",
-    date: "Mars 2022 - Août 2022",
+    date: "Mars 2022 - Octobre 2022",
     desc: [
-      "Creation of REST and SOAP web services.",
-      "Carrying out multiple tasks on existing solutions.",
+      "Creation of REST web services.",
+      "Realization of multiple tasks on existing solutions.",
       "Extensive testing and successful deployment.",
-      "Design and implementation of the database structure.",
+      "Creation of APIs using the PHP symfony framework and configuration of a clean architecture using Domain-Driven Design (DDD).",
     ],
     skills: [
       "PHP",
